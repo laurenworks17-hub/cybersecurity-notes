@@ -1,9 +1,8 @@
-cybersecurity-notes
- Cybersecurity Notes
+# Cybersecurity Notes
 
 This repository contains my cybersecurity learning notes as I progress through my degree and practical labs.
 
- Topics Covered
+## Topics Covered
 
 - Networking
 - Linux
@@ -12,6 +11,6 @@ This repository contains my cybersecurity learning notes as I progress through m
 - Cloud Security
 - Security Operations (SOC)
 
-Goal
+## Goal
 
 To build a strong foundation for a career in cybersecurity with a focus on SOC Analysis, Security Engineering, Cloud Security and Security Architecture.
